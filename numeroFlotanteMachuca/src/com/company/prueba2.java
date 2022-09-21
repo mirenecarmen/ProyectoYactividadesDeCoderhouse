@@ -14,6 +14,7 @@ public class prueba2 {
         //al nro convertido en decimal (double) le resto el entero
         double resul=(double) dec - ent;
         System.out.printf("\nLa parte decimal es:\n" + resul);
+        //fin
 
 
 
